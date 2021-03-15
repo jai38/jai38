@@ -29,8 +29,10 @@
 <img align="left" alt="Terminal" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="JavaScript" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
+<br />
 
 ## Stats
+
 [![Jai's GitHub stats](https://github-readme-stats.vercel.app/api?username=jai38&theme=dark&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Language Stats
