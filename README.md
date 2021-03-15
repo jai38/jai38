@@ -2,7 +2,7 @@
 
 <br />
 
-## I'm a second year Software Engineer & A web-developer
+## I'm a second year Software Engineer & a Web-developer
 - 🔭 I’m currently working on A Banking-System Web-app using MERN-Stack
 - 🌱 I’m currently learning Python and Dynamic Programming 
 - 👯 I’m looking to collaborate on any node packages
