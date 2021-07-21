@@ -2,9 +2,9 @@
 
 <br />
 
-## I'm a second year Software Engineer & a Web-developer
-- 🔭 I’m currently working on A Banking-System Web-app using MERN-Stack
-- 🌱 I’m currently learning ReactJS, Python and Dynamic Programming 
+## I'm a third year Software Engineer & a Web-developer
+- 🔭 I’m currently in Internship at Mysiteapp.com
+- 🌱 I’m currently learning ML, Python and Dynamic Programming 
 - 👯 I’m looking to collaborate on any node packages
 - 🔥 I'm best at handling backend of website
 - 🎯 2021 goals: web-development(✔️), Python(❗), Dynamic Programming(❗), App-development(❗), ML&AI(❗)
