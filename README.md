@@ -4,7 +4,7 @@
 
 ## I'm a third year Software Engineer & a Web-developer
 - 🔭 Currently Intern at [Material Depot](https://materialdepot.in/) As Software Developer 
-- 👯 I’m looking for a SDE-I posiiton
+- 👯 I’m looking for a SDE-I position
 - 🔥 I'm best at handling backend of website & making automations
 - 🎯 Achievement: MERN Stack, Web Scrapping, AWS, Dynamic Programming
 - ⚡ Fun fact: I love to get more knowledge about Universe
