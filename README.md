@@ -3,11 +3,10 @@
 <br />
 
 ## I'm a third year Software Engineer & a Web-developer
-- 🔭 Currently Intern at [Material Depot](https://materialdepot.in/) As Full Stack Developer
-- 🌱 I’m currently learning DSA, Python and Dynamic Programming 
-- 👯 I’m looking to collaborate on any node packages
-- 🔥 I'm best at handling backend of website
-- 🎯 2021 goals: web-development(✔️), Python(❗), Dynamic Programming(❗), App-development(❗), ML&AI(❗)
+- 🔭 Currently Intern at [Material Depot](https://materialdepot.in/) As Software Developer 
+- 👯 I’m looking for a SDE-I posiiton
+- 🔥 I'm best at handling backend of website & making automations
+- 🎯 Achievement: MERN Stack, Web Scrapping, AWS, Dynamic Programming
 - ⚡ Fun fact: I love to get more knowledge about Universe
 - Connect with me on [<img alt = "LinkedIn" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Linkedin.svg" />](https://www.linkedin.com/in/jai-malani-353861206/)
 
