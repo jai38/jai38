@@ -2,7 +2,7 @@
 
 <br />
 
-## I'm a third year Software Engineer & a Web-developer
+## I'm a third year Software Engineer Student
 - 🔭 Currently Intern at [Material Depot](https://materialdepot.in/) As Software Developer 
 - 👯 I’m looking for a SDE-I position
 - 🔥 I'm best at handling backend of website & making automations
