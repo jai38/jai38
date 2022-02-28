@@ -1,8 +1,10 @@
 <h3>Hi there, I'm Jai Malani 👋</h3>
 
-<br />
+![](https://hit.yhype.me/github/profile?user_id=71269258)
+
 
 <h2>I'm a third year Software Engineer Student</h2>
+![Profile Views](<https://komarev.com/ghpvc/?username=jai38&label=Profile%20views&color=0e75b6&style=flat>)
 <ul>
   <li>
     🔭 Currently Intern at [Material Depot](https://materialdepot.in/) As
