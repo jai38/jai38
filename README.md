@@ -1,13 +1,12 @@
 <h3>Hi there, I'm Jai Malani 👋</h3>
 
-![](https://hit.yhype.me/github/profile?user_id=71269258)
+[](https://hit.yhype.me/github/profile?user_id=71269258)
 
 
 <h2>I'm a third year Software Engineer Student</h2>
-![Profile Views](<https://komarev.com/ghpvc/?username=jai38&label=Profile%20views&color=0e75b6&style=flat>)
 <ul>
   <li>
-    🔭 Currently Intern at [Material Depot](https://materialdepot.in/) As
+    🔭 Currently Intern at <a href="https://materialdepot.in/">Material Depot</a> As
     Software Developer
   </li>
   <li>👯 I’m looking for a SDE-I position</li>
@@ -38,7 +37,7 @@
 </div>
 
 <div align="center">
-  <h2 align="center"><b>Tools, Languages and Frameworks I know:</b></h2>
+  <h2 align="center"><b>Tools and Languages I know:</b></h2>
   <h3 align="center"><b>Tools:</b></h3>
   <img
     alt="Visual Studio Code"
@@ -65,18 +64,6 @@
     src="https://img.icons8.com/color/2x/pycharm.png"
   />
   <img
-    alt="Tableau"
-    height="48"
-    width="48"
-    src="https://img.icons8.com/color/50/000000/tableau-software.png"
-  />
-  <img
-    alt="Power BI"
-    height="48"
-    width="48"
-    src="https://img.icons8.com/color/48/000000/power-bi.png"
-  />
-  <img
     alt="Discord"
     height="48"
     width="48"
@@ -93,12 +80,6 @@
     height="48"
     width="48"
     src="https://img.icons8.com/color/2x/figma.png"
-  />
-  <img
-    alt="Blender"
-    height="48"
-    width="48"
-    src="https://img.icons8.com/color/2x/blender-3d.png"
   />
   <img
     alt="Microsoft SQL Server"
@@ -123,12 +104,6 @@
     height="48"
     width="48"
     src="https://img.icons8.com/color/2x/c-plus-plus-logo.png"
-  />
-  <img
-    alt="C Sharp"
-    height="48"
-    width="48"
-    src="https://img.icons8.com/color/2x/c-sharp-logo.png"
   />
   <img
     alt="Java"
@@ -180,77 +155,6 @@
   />
 
   <br />
-  <br />
-  <br />
-
-  <h3 align="center"><b>Frameworks I know:</b></h3>
-
-  <img
-    alt="Pandas"
-    height="48"
-    width="48"
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/135px-Pandas_mark.svg.png"
-  />
-  <img
-    alt="NumPy"
-    height="48"
-    width="48"
-    src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg"
-  />
-  <img
-    alt="SciPy"
-    height="48"
-    width="60"
-    src="https://user-images.githubusercontent.com/32775169/119880661-196d2300-bf4a-11eb-821d-1ee9a0d29e03.png"
-  />
-  <img
-    alt="Anaconda"
-    height="48"
-    width="48"
-    src="https://img.icons8.com/dusk/2x/anaconda.png"
-  />
-  <img
-    alt="Plotly"
-    height="48"
-    width="48"
-    src="https://symbols.getvecta.com/stencil_92/6_plotly-icon.1827440fa5.svg"
-  />
-  <img
-    alt="SciKit-Learn"
-    height="48"
-    width="74"
-    src="https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/scikit-learn-logo-notext.png"
-  />
-  <img
-    alt="Keras"
-    height="48"
-    width="48"
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/120px-Keras_logo.svg.png"
-  />
-  <img
-    alt="TensorFlow"
-    height="48"
-    width="48"
-    src="https://img.icons8.com/color/2x/tensorflow.png"
-  />
-  <img
-    alt="PyTorch"
-    height="48"
-    width="48"
-    src="https://symbols.getvecta.com/stencil_92/77_pytorch-icon.1c19d88dac.svg"
-  />
-  <img
-    alt="Apache Spark"
-    height="48"
-    width="48"
-    src="https://symbols.getvecta.com/stencil_74/35_apache-spark.7899e844c8.svg"
-  />
-  <img
-    alt="OpenCV"
-    height="48"
-    width="48"
-    src="https://pics.freeicons.io/uploads/icons/png/2084117441551941714-512.png"
-  />
 
   <br />
 </div>
