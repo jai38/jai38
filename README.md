@@ -165,12 +165,10 @@
 stats](https://github-readme-stats-sable-zeta.vercel.app/api?username=jai38&theme=dark)](https://github.com/jai38/github-readme-stats)
 [![GitHub
 Streak](https://github-readme-streak-stats.herokuapp.com?user=jai38&theme=dark)](https://git.io/streak-stats)
-<div align="center">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs?username=jai38&show_icons=true&locale=en&layout=compact&theme=dark&&exclude_repo=SmilePay"
     alt="jai38"
   />
-</div>
 <!-- [![Jai's github activity graph](https://activity-graph.herokuapp.com/graph?username=jai38&theme=react-dark)](https://github.com/jai38) -->
 
 <!-- ## Language Stats
