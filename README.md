@@ -3,7 +3,7 @@
 [](https://hit.yhype.me/github/profile?user_id=71269258)
 
 
-<h2>I'm a third year Software Engineer Student</h2>
+<h2>I'm a final year Software Engineer Student</h2>
 <ul>
   <li>
     🔭 Currently Intern at <a href="https://materialdepot.in/">Material Depot</a> As
