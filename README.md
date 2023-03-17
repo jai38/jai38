@@ -75,7 +75,7 @@
     width="48"
     src="https://img.icons8.com/color/2x/slack-new.png"
   />
-  <img
+<!--   <img
     alt="Figma"
     height="48"
     width="48"
@@ -86,7 +86,7 @@
     height="48"
     width="48"
     src="https://img.icons8.com/color/2x/microsoft-sql-server.png"
-  />
+  /> -->
 
   <br />
   <br />
