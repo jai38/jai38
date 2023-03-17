@@ -5,11 +5,11 @@
 
 <h2>I'm a final year Software Engineer Student</h2>
 <ul>
-  <li>
+<!--   <li>
     🔭 Currently Intern at <a href="https://materialdepot.in/">Material Depot</a> As
     Software Developer
-  </li>
-  <li>👯 I’m looking for a SDE-I position</li>
+  </li> -->
+<!--   <li>👯 I’m looking for a SDE-I position</li> -->
   <li>🔥 I'm best at handling backend of website & making automations</li>
   <li>🎯 Achievement: MERN Stack, Web Scrapping, AWS, Dynamic Programming</li>
   <li>⚡ Fun fact: I love to get more knowledge about Universe</li>
